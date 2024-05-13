@@ -18,7 +18,11 @@ Unlock puzzles and resurrect the great general of Qin, who will tell the history
 ![ezgif com-video-to-gif-converter](https://github.com/gaohaoting/MR_Terracotta_Warriors/assets/112485201/b4a4fb4f-aa75-47a0-bb0c-1a5e122da73c)
 
 
+![24a531f62dd542b8b2301eb3c090e2915-ezgif com-optimize](https://github.com/gaohaoting/MR_Terracotta_Warriors/assets/112485201/8189d2dc-265e-4ef0-99d4-9c1806e88677)
+
+
 Explore the horse-drawn carriages, observe the exquisite craftsmanship of the artisans, and learn about the brutal labor behind the Qin state's exquisite craftsmanship.
+
 
 In the sandbox to decipher and explore the glory and decline of the Qin state, to realize the true meaning of history. A warlike state, however big it may be, will eventually perish.
 
