@@ -1,5 +1,7 @@
 # Metahackathon_Terracotta Warriors
 
+https://devpost.com/software/terracotta-warrior-chronicles 
+
 This is an age of glorious, also an age of darkness
 
 Here stands one of the greatest emperors in Chinese history, and the harshest and cruelest law. How darkness the age was? 
