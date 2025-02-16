@@ -1,1 +1,3 @@
-Interaction SDK is a library of components for adding controller and hand interactions to your experiences. This package integrates the Core package components with the Utilities package (OVRPlugin).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1740991b7b76ace8b6e4d974f0cf34432e68fccb03effb47c3a103071646d288
+size 200
