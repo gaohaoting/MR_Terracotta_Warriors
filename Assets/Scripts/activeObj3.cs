@@ -16,7 +16,14 @@ public class activeObj3 : MonoBehaviour
     // }
     public void ActiveObj()
     {
-        objectToActivate.SetActive(true);
-        objectToActivate2.SetActive(true);
+        if (objectToActivate != null)
+        {
+            objectToActivate.SetActive(true);
+        }
+        else if (objectToActivate2 != null)
+        {
+            objectToActivate2.SetActive(true);
+        }
+        return;
     }
 }
