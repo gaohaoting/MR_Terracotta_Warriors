@@ -2,19 +2,19 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ActiveObj2 : MonoBehaviour
+public class activeObj2 : MonoBehaviour
 {
+    // Start is called before the first frame update
     public GameObject objectToActivate;
-
     void Start()
     {
         objectToActivate.SetActive(false);
     }
 
-    public void ActiveObj2nd()
+    // Update is called once per frame
+    public void ActiveObj2()
     {
         objectToActivate.SetActive(true);
+        Debug.Log("detect");
     }
-
-
 }
